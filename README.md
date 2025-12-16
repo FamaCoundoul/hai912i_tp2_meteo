@@ -47,10 +47,12 @@ lib/
     │   ├── date_utils.dart              # Utilitaires de date
     │   └── weather_icons.dart           # Icônes météo
     └── widgets/
-        ├── current_weather_card.dart    # Carte météo actuelle
-        ├── weather_details_card.dart    # Détails météo
-        ├── forecast_list.dart           # Liste prévisions
-        └── weather_search_field.dart    # Champ de recherche
+        ├── current_weather_card.dart                 # Carte météo actuelle
+        ├── weather_details_card.dart                 # Détails météo
+        ├── previsions_horizontal_list.dart           # Liste prévisions
+        ├── previsions_card_horizontal.dart           # card prévisions 
+        └── weather_search_field.dart                 # Champ de recherche
+
 ```
 
 ## 🚀 Installation
