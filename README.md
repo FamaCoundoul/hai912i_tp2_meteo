@@ -4,7 +4,7 @@
 
 Application météo complète développée avec Flutter utilisant l'API OpenWeatherMap. L'application permet de rechercher la météo actuelle et les prévisions sur 5 jours pour n'importe quelle ville dans le monde.
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 40px;">
   <img src="./infos_meteo_paris_1.png" width="100" alt="paris1"/>
   <img src="./infos_meteo_paris_2.png" width="100" alt="paris2"/>
   <img src="./infos_meteo_marseille_1.png" width="100" alt="marseille1"/>
